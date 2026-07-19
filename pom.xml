@@ -36,9 +36,8 @@
         </dependencies>
     </dependencyManagement>
     <modules>
-
-        <module>common</module>
-        <module>order-service</module>
+        <module>shared/common</module>
+        <module>services/order-service</module>
     </modules>
 
 
